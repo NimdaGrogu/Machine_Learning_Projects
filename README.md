@@ -16,5 +16,4 @@ Machine learning has many applications in a variety of fields, including image r
 
 ## Description:
 
-This Repository contains different practices projects using  machine-learning techniques techniques to solve
-different problems 
+Welcome to the AI-ML-DS-Freshman-Starter-Kit! This repository is designed to help beginners in the fields of Machine Learning (ML), Data Science (DS), and Artificial Intelligence (AI) kickstart their learning journey. I have compiled a curated list of resources, tutorials, and projects to guide you through the basics and provide hands-on experience in these exciting fields.
